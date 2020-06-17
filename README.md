@@ -8,7 +8,7 @@ Fetrures:
 - Return number array of positions, then input it into LabVIEW to control hardware
 - Use arrow keys for fixed length drawing (accuracy 0.1 um)
 
-## Usage samples
+## Usage examples
 
 ![image]( https://github.com/jingxuxie/LaserTrajectoryControl/blob/master/readme/laser_general.gif)
 
